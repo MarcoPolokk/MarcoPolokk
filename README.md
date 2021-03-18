@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pawel Koziol aka @MarcoPolokk
-- 👀 I’m interested in sports, e-sports, gaming and blockchain technologies
+- 👀 I’m interested in music production, sports, gaming and blockchain technologies
 - 🌱 I’m currently learning ARKit and RxSwift
 - 💞️ I’m looking to find opportunity to develop my skills further
 - 📫 You can reach me on https://www.linkedin.com/in/inz-koziol-pawel/ profile or send an email to inzkoziolpawel@gmail.com
